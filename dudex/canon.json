@@ -1,0 +1,23 @@
+{
+  "canon_version": "1.0",
+  "note": "This is a template canon.json file. It will be replaced during generation with the actual build specification.",
+  "project": {
+    "name": "Template Project",
+    "type": "web_app",
+    "framework": "nextjs",
+    "language": "typescript"
+  },
+  "description": "Template project structure for DUDE X Builder",
+  "features": [],
+  "pages": [],
+  "styling": {
+    "framework": "tailwind"
+  },
+  "requirements": {
+    "seo": true,
+    "analytics": false,
+    "responsive": true,
+    "accessibility": true
+  }
+}
+
